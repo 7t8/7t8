@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y2D05MF)
 <!--
 **7t8/7t8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
